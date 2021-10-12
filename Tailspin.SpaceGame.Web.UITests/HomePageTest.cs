@@ -89,7 +89,7 @@ namespace UITests
         }
 
         // Download game
-        [TestCase("download-btn", "pretend-modal---")]
+        [TestCase("download-btn", "pretend-modal")]
         // Screen image
         [TestCase("screen-01", "screen-modal")]
         // // Top player on the leaderboard
